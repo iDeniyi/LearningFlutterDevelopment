@@ -1,5 +1,6 @@
 # LearningFlutterDevelopment
 My journey learning how to develop applications using Flutter.
+Each application created has its own repository.
 
 Application(s) created:
   * BusinessCardApp - trivial app learning how to use different widgets in Flutter, especially Card, ListTile, Column, Row, CircleAvatar.
