@@ -45,7 +45,7 @@ class MyApp extends StatelessWidget {
                     Icons.phone,
                     color: Colors.blueGrey,
                   ),
-                  title: Text('+1 (780) 655 7162',
+                  title: Text('+1 (780) *** ****',
                       style: TextStyle(
                         color: Colors.blueGrey[900],
                         fontFamily: 'SourceSansPro',
