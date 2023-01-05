@@ -1,9 +1,3 @@
-# LearningFlutterDevelopment
-My journey learning how to develop applications using Flutter.
-Each application created has its own branch within the repository.
+* Dicey - a trivial app with 2 die that change their faces when either die is tapped.
 
-Application(s) created:
-  * BusinessCardApp - trivial app learning how to use different widgets in Flutter, especially Card, ListTile, Column, Row, CircleAvatar.
-
-Course(s):
-  * https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/lecture/14482104#overview
+![Dicey](https://user-images.githubusercontent.com/71891768/210738505-80154431-2be1-4bfb-84b7-38db7d4d7188.png)
